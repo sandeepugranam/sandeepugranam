@@ -11,13 +11,11 @@
 
 - 📫 How to reach me **sandeepugranam51@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Uvo757_ZQsqLsa4lNbwGJhthNFu0Tt4tlCCSrq7Dy8s/edit?usp=sharing](https://docs.google.com/document/d/1Uvo757_ZQsqLsa4lNbwGJhthNFu0Tt4tlCCSrq7Dy8s/edit?usp=sharing)
-
 - ⚡ Fun fact **I enjoy turning ideas into real hardware projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandeep-u-15325a307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandeep-u-15325a307" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandeep-u-15325a307/?skipredirect=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandeep-u-15325a307/?skipredirect=true" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
